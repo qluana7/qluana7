@@ -1,17 +1,14 @@
 # About Me
 
-- Using language :
-![c](/lang/c.png)
-![csharp](/lang/csharp.png)
-![typescript](/lang/typescript.png)
+- Using language<br>
+<img src="/lang/c.png" width="32"> <img src="/lang/csharp.png" width="32"> <img src="/lang/typescript.png" width="32"><br>
+<img src="/lang/electron.png" width="32"> <img src="/lang/deno.png" width="32">
 
-- Learning :
-![assembly](/lang/assembly.png)
+- Learning<br>
+<img src="/lang/assembly.png" width="32"><img src="/lang/fsharp.png" width="32">
 
-- Using IDE :
-![vs](/ide/vs.png)
-![vsc](/ide/vsc.png)
-![neovim](/ide/neovim.png)
+- Using IDE<br>
+<img src="/ide/vs.png" width="32"> <img src="/ide/vsc.png" width="32"> <img src="/ide/neovim.png" width="32">
 
 # State
 
