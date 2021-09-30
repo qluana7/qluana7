@@ -14,11 +14,11 @@
 
 ### C#
 - [Linux C# Console](https://github.com/Lukince/Linux-CS-Console) : Repl Version for C#
-- [C# Analyzer](https://github.com/Lukince/CSharp-Analyzer) : ~~maybe~~ Powerful C# Analysis Editor for Windows.
+- [C# Analyzer](https://github.com/Lukince/CSharp-Analyzer) : ~~maybe~~ Powerful C# Analysis Editor for Windows
 - [Launchpad Control](https://github.com/Lukince/LaunchpadControl) : Launchpad User Control for WPF
 
 ### Typescript
-- [Hangul 4 Deno](https://github.com/Lukince/Hangul4deno) : Hangul Module for Deno | After the basic code is written, it is published.
+- [Hangul 4 Deno](https://github.com/Lukince/Hangul4deno) : Powerful hangul library 4 deno | [deno.land](https://deno.land/x/hangul)
 
 ### Other
 - [BitScript](https://github.com/Lukince/BitScript) : The Script using only bitwise operator
