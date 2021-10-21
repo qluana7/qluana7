@@ -25,7 +25,10 @@
 
 # State
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lukince&theme=darkhub&row=1&no-frame=true&no-bg=true">
+</p>
+
 <br>![ME](https://github-readme-stats.vercel.app/api?username=lukince&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukince&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lukince&theme=dark)](https://git.io/streak-stats)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lukince&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
