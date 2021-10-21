@@ -16,6 +16,7 @@
 - [Linux C# Console](https://github.com/Lukince/Linux-CS-Console) : Repl Version for C#
 - [C# Analyzer](https://github.com/Lukince/CSharp-Analyzer) : ~~maybe~~ Powerful C# Analysis Editor for Windows
 - [Launchpad Control](https://github.com/Lukince/LaunchpadControl) : Launchpad User Control for WPF
+- [CommandExecutor](https://github.com/Lukince/CommandExecutor) : Manage command as class and execute with string [![Nuget](https://img.shields.io/nuget/v/CommandExecutor)](https://nuget.org/packages/CommandExecutor)
 
 ### Typescript
 - [Hangul 4 Deno](https://github.com/Lukince/Hangul4deno) : Powerful hangul library 4 deno | [deno.land](https://deno.land/x/hangul)
