@@ -1,11 +1,11 @@
 # About Me
 
-- Using language<br>
+- Using or Learning languages<br>
 <img src="/lang/c.png" width="32"> <img src="/lang/csharp.png" width="32"> <img src="/lang/typescript.png" width="32"><br>
-<img src="/lang/electron.png" width="32"> <img src="/lang/deno.png" width="32">
-
-- Learning<br>
 <img src="/lang/assembly.png" width="32"><img src="/lang/fsharp.png" width="32">
+
+- Using or Learning frameworks<br>
+<img src="/framework/electron.png" width="32"> <img src="/framework/deno.png" width="32"> <img src="/framework/react.png" width="32">
 
 - Using IDE<br>
 <img src="/ide/vs.png" width="32"> <img src="/ide/vsc.png" width="32"> <img src="/ide/neovim.png" width="32">
