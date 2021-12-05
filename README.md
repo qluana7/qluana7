@@ -11,7 +11,7 @@
 <img src="/ide/vs.png" width="32"> <img src="/ide/vsc.png" width="32"> <img src="/ide/neovim.png" width="32">
 
 - Other
-Blog : [Think C#](https://thinkcs.tistory.com)
+Blog : [Think C#](https://thinkcs.tistory.com) <br>
 Baekjoon : [baekjoon](https://www.acmicpc.net/user/lukince) [solved.ac](https://solved.ac/profile/lukince)
 
 # Projects
