@@ -1,21 +1,25 @@
 # About Me
 
 - Using or Learning languages<br>
-<img src="/lang/c.png" width="32"> <img src="/lang/csharp.png" width="32"> <img src="/lang/typescript.png" width="32"><br>
-<img src="/lang/assembly.png" width="32"><img src="/lang/fsharp.png" width="32">
+<img src="/lang/csharp.png" width="32"> <img src="/lang/typescript.png" width="32"> <img src="/lang/fsharp.png" width="32"><br>
+<img src="/lang/assembly.png" width="32"> <img src="/lang/c.png" width="32">
 
 - Using or Learning frameworks<br>
-<img src="/framework/electron.png" width="32"> <img src="/framework/deno.png" width="32"> <img src="/framework/react.png" width="32">
+<img src="/framework/electron.png" width="32"> <img src="/framework/deno.png" width="32"> <img src="/framework/react.png" width="32"> <img src="/framework/dotnet.png" width="32">
 
 - Using IDE<br>
 <img src="/ide/vs.png" width="32"> <img src="/ide/vsc.png" width="32"> <img src="/ide/neovim.png" width="32">
+
+- Other
+Blog : [Think C#](https://thinkcs.tistory.com)
+Baekjoon : [baekjoon](https://www.acmicpc.net/user/lukince) [solved.ac](https://solved.ac/profile/lukince)
 
 # Projects
 
 ### C#
 - [Linux C# Console](https://github.com/Lukince/Linux-CS-Console) : Repl Version for C#
 - [C# Analyzer](https://github.com/Lukince/CSharp-Analyzer) : ~~maybe~~ Powerful C# Analysis Editor for Windows
-- [Launchpad Control](https://github.com/Lukince/LaunchpadControl) : Launchpad User Control for WPF
+- [Launchpad Control](https://github.com/Lukince/LaunchpadControl) : Launchpad User Control for WPF ( Old )
 - [CommandExecutor](https://github.com/Lukince/CommandExecutor) : Manage command as class and execute with string [![Nuget](https://img.shields.io/nuget/v/CommandExecutor)](https://nuget.org/packages/CommandExecutor)
 
 ### Typescript
