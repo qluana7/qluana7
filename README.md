@@ -14,7 +14,7 @@
   - Blog : [Think C#](https://thinkcs.tistory.com) <br>
   - Baekjoon : [baekjoon](https://www.acmicpc.net/user/lukince) | [solved.ac](https://solved.ac/profile/lukince)
 
-[![SolveRank](http://mazassumnida.wtf/api/v2/generate_badge?boj=lukince)](https://solved.ac/profile/lukince)
+[![SolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=lukince)](https://solved.ac/profile/lukince)
 
 # Projects
 
