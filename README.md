@@ -3,6 +3,7 @@
 ### Using or Learning languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![F#](https://img.shields.io/badge/fsharp-%388bba.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAABAAAAAQBPJcTWAAADzElEQVR4nGNgGKqAiYOLQUxZi09IXYd7QBwwc/WWSeHp+f7L9hycaxcUZkVXyyctWN7zHwj8YpLdj5w4eejb//9vbePSTelgNSPDxHlLu/9DgW90ktueQ0d2gNif/v9/bRebakFTyyfMXQy3HO6Aw0d2wvgff/x86xYdb08Dy5kYJsxBtRybA0DgFzAwAjLzPalnNzM7w9SVmzEsB6eB2BT3fUeO7kYX//P//7fgzHx/qtg/acEKrJaDgHNQpM3WA4c2YZP79///j9DswmDKLF+4Cqflkxes6AGp0XH20Hz09sMDHMp+xhVXRFHd8knzl3UzsHIy8EvIcoLUart6qz/7+x+XI/7ktHSlkmQ5clZDByA5kJrJS9f1hiZl+cH0GMakqz/99huXI/4XtPfmEGE1MJ/PXYLbcmBOAKnqmbmwDcQPiE70RtatYeOo/uTrT5yOqJi/soCBHWfJzYg1q8HAhNkLgZazMHRNn9cGE/OPSsDIbpp2zupPPn3D6YiGxWvKsNjNDCxkcPt8+sotvQwsXAydU2a1IYtjcwAIaDl5qD988/4eLvO6Fq9sZGBiQWhonjS7GpfipdsOzAWpqW7vK0eXw+YARjBiYND3D9f8+vf/R1zm1s9cUAHXZOcTYvLm8/fH2BTeef7uqrZrsIKhnZvmm88/nhATAqAQ7Vm8sgWo5Dc2Mx9+/HrH2MVDH0WPiZOX9uuPX7E64sXXPw8U9Myk1Y0sFV5/+QlXg90BTAyT1mzuwuXze28/3lA2s1bE6nBjOxft15++YXXEkzcfHijoW0irGVoovPnyA6zGD90BQJ9PWrMJp+V3P32/qurkJYfVcrgjbF2033z5+QirI169g4aEhcKnv/+fhydmBMI1cvHitfza0xfnFMysJfFajuyI15+/43DE2wfyOsYyBnbuGhYuPoZgDWycDNN2HsRp+cnrt45JamgLE2U5DJgC0wQwqLE64umbjw9U9M0g8cjGwTBxxTqclh+9fvuQoIomH0mWwx3h4gNKE1gd8fjtp/uSyhpiTdPn4MzCR67d3scvI88DMY2RLDcwWHiFaL/7+R9rwgxMSPc8dOLkfmxy+6/e2s4rBamsKAaWPhHawDIAwxHYWkQgsPHIibUcgiKsVLEcBkydvTEcgc0Baw6fXMHEw09meBMAxrbOKOUEugNW7D20mIlPiCZ2IznCSfsN1BE+0Umuew8f2QW2/OTFOUxCYrS1HO4IYIn56ff/Z6FJmf7HL1w6PG/dplkMvAL0sRwGbH3Dje0Co0xDCit8mfkEaRPnIwIAAJorTR8BtSCUAAAAAElFTkSuQmCC&labelColor=388bba&color=388bba)
@@ -32,9 +33,10 @@
 
 ### Other
 - Blog : [Think C#](https://thinkcs.tistory.com) <br>
-- Baekjoon : [baekjoon](https://www.acmicpc.net/user/lukince) | [solved.ac](https://solved.ac/profile/lukince)
+- Baekjoon : [lukince](https://www.acmicpc.net/user/lukince) | [sweeter](https://www.acmicpc.net/user/sweeter)
 
-[![SolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=lukince)](https://solved.ac/profile/lukince)
+[![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=lukince)](https://solved.ac/profile/lukince)
+[![SSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=sweeter)](https://solved.ac/profile/sweeter)
 
 # Projects
 
