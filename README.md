@@ -33,10 +33,10 @@
 
 ### Other
 - Blog : [Think C#](https://thinkcs.tistory.com) <br>
-- Baekjoon : [lukince](https://www.acmicpc.net/user/lukince) | [sweeter](https://www.acmicpc.net/user/sweeter)
+- Baekjoon : [lukince](https://www.acmicpc.net/user/lukince)<!-- | [sweeter](https://www.acmicpc.net/user/sweeter)-->
 
 [![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=lukince)](https://solved.ac/profile/lukince)
-[![SSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=sweeter)](https://solved.ac/profile/sweeter)
+<!--[![SSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=sweeter)](https://solved.ac/profile/sweeter)-->
 
 # Projects
 
