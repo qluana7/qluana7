@@ -49,6 +49,7 @@
 - [Launchpad Control](https://github.com/Lukince/LaunchpadControl) : Launchpad User Control for WPF ( Old )
 - [CommandExecutor](https://github.com/Lukince/CommandExecutor) : Manage command as class and execute with string
   </br>[![Nuget](https://img.shields.io/nuget/v/CommandExecutor?style=for-the-badge)](https://nuget.org/packages/CommandExecutor)
+- [Color.NET](https://github.com/Lukince/Color.NET) : Simple color library for console.
 
 ### Typescript
 - [Hangul 4 Deno](https://github.com/Lukince/Hangul4deno) : Powerful hangul library 4 deno
