@@ -44,26 +44,26 @@
 # Projects
 
 ### C#
-- [Linux C# Console](https://github.com/Lukince/Linux-CS-Console) : Repl Version for C#
-- [C# Analyzer](https://github.com/Lukince/CSharp-Analyzer) : ~~maybe~~ Powerful C# Analysis Editor for Windows
-- [Launchpad Control](https://github.com/Lukince/LaunchpadControl) : Launchpad User Control for WPF ( Old )
-- [CommandExecutor](https://github.com/Lukince/CommandExecutor) : Manage command as class and execute with string
+- [Linux C# Console](https://github.com/qluana7/Linux-CS-Console) : Repl Version for C#
+- [C# Analyzer](https://github.com/qluana7/CSharp-Analyzer) : ~~maybe~~ Powerful C# Analysis Editor for Windows
+- [Launchpad Control](https://github.com/qluana7/LaunchpadControl) : Launchpad User Control for WPF ( Old )
+- [CommandExecutor](https://github.com/qluana7/CommandExecutor) : Manage command as class and execute with string
   </br>[![Nuget](https://img.shields.io/nuget/v/CommandExecutor?style=for-the-badge)](https://nuget.org/packages/CommandExecutor)
-- [Color.NET](https://github.com/Lukince/Color.NET) : Simple color library for console.
+- [Color.NET](https://github.com/qluana7/Color.NET) : Simple color library for console.
 
 ### Typescript
 - [Hangul 4 Deno](https://github.com/Lukince/Hangul4deno) : Powerful hangul library 4 deno
-  <br/>[![deno.land](https://img.shields.io/github/v/release/lukince/hangul4deno?style=for-the-badge)](https://deno.land/x/hangul)
+  <br/>[![deno.land](https://img.shields.io/github/v/release/qluana7/hangul4deno?style=for-the-badge)](https://deno.land/x/hangul)
 
 ### Other
-- [BitScript](https://github.com/Lukince/BitScript) : The Script using only bitwise operator
+- [BitScript](https://github.com/qluana7/BitScript) : The Script using only bitwise operator
 
 # State
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lukince&theme=darkhub&row=1&no-frame=true&no-bg=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=qluana7&theme=darkhub&row=1&no-frame=true&no-bg=true">
 </p>
 
-<br>![ME](https://github-readme-stats.vercel.app/api?username=lukince&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukince&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lukince&theme=dark)](https://git.io/streak-stats)
+<br>![ME](https://github-readme-stats.vercel.app/api?username=qluana7&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qluana7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qluana7&theme=dark)](https://git.io/streak-stats)
