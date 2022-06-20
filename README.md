@@ -25,6 +25,9 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### Touched
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,13 +37,15 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 
-### Other
+### Others
 - Blog : [Think C#](https://thinkcs.tistory.com) <br>
 - Baekjoon : [lukince](https://www.acmicpc.net/user/lukince)<!-- | [sweeter](https://www.acmicpc.net/user/sweeter)-->
   - [C++ 코드](https://github.com/Lukince/Baekjoon-Cpp)
 
 [![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=lukince)](https://solved.ac/profile/lukince)
 <!--[![SSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=sweeter)](https://solved.ac/profile/sweeter)-->
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/luana7)
 
 # Projects
 
