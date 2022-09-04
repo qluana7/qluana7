@@ -1,3 +1,5 @@
+### \* [Info in Notion](https://luana7.notion.site/About-Me-8fec3d019a8a435c8e1516ea85116f68) *
+
 # About Me
 
 ### Using languages
