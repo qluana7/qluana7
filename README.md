@@ -44,8 +44,13 @@
 - Baekjoon : [lukince](https://www.acmicpc.net/user/lukince)<!-- | [sweeter](https://www.acmicpc.net/user/sweeter)-->
   - [C++ 코드](https://github.com/Lukince/Baekjoon-Cpp)
 
-[![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=lukince)](https://solved.ac/profile/lukince)
-<!--[![SSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=sweeter)](https://solved.ac/profile/sweeter)-->
+<!--[![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=lukince)](https://solved.ac/profile/lukince)
+[![CSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=sweeter)](https://solved.ac/profile/cssembler)-->
+
+- Main Account
+[![LSolveRank](http://mazassumnida.wtf/api/v2/generate_badge?boj=lukince)](https://solved.ac/profile/lukince)
+- Assembly Solve Account
+[![CSolveRank](http://mazassumnida.wtf/api/v2/generate_badge?boj=cssembler)](https://solved.ac/profile/cssembler)
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/luana7)
 
