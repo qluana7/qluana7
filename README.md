@@ -6,7 +6,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge)
 
 ### Using frameworks
 
@@ -14,13 +14,13 @@
 
 ### Using IDE
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ### Using things
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
@@ -65,11 +65,15 @@
 - [Color.NET](https://github.com/qluana7/Color.NET) : Simple color library for console.
 
 ### C++
-- [SDL Components](https://github.com/qluana7/SDL-Components) : Basic components for SDL. (Beta)
+- [SDL Components](https://github.com/qluana7/SDL-Components) : Basic components for SDL (Beta)
+- [Cpp-Archive](https://github.com/qluana7/Cpp-Archive) : Archive codes for C++ (>= std=c++17)
 
 ### Typescript
 - [Hangul 4 Deno](https://github.com/Lukince/Hangul4deno) : Powerful hangul library 4 deno
   <br/>[![deno.land](https://img.shields.io/github/v/release/qluana7/hangul4deno?style=for-the-badge)](https://deno.land/x/hangul)
+
+### Assembly
+- [asmlib](https://github.com/qluana7/asmlib) : NASM x86 Assembly Preset Library
 
 ### Other
 - [BitScript](https://github.com/qluana7/BitScript) : The Script using only bitwise operator
